@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://c0sm0s:8080/CalcuAPI/CalcuWebService?WSDL" uri="wsdl/c0sm0s_8080/CalcuAPI/CalcuWebService.wsdl"/>
+    <system systemId="http://c0sm0s:8080/CalcuAPI/CalcuWebService?xsd=1" uri="wsdl/c0sm0s_8080/CalcuAPI/CalcuWebService.xsd_1.xsd"/>
+</catalog>
